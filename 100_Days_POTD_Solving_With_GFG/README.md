@@ -8,7 +8,7 @@ You are given a 2D grid `image[][]` of size n×m, where each `image[i][j]` repre
 
 Your task is to perform a **flood fill** starting from the pixel `(sr, sc)`, changing its color to `newColor` and also changing the color of all connected pixels that have the same original color. Two pixels are considered connected if they are adjacent horizontally or vertically (not diagonally) and share the same original color.
 
-> **Note:** Sorry for the late upload, my Final Sem exam is going on.
+
 
 ## **Examples**
 
@@ -253,16 +253,8 @@ class Solution:
 
 ## **Contribution and Support:**
 
-For discussions, questions, or doubts related to this solution, feel free to connect on LinkedIn: [Any Questions](https://www.linkedin.com/in/patel-hetkumar-sandipbhai-8b110525a/). Let’s make this learning journey more collaborative!
+For discussions, questions, or doubts related to this solution, feel free to connect on LinkedIn: [Any Questions](https://www.linkedin.com/in/swastik-chattopadhyay-398551251/). Let’s make this learning journey more collaborative!
 
 ⭐ **If you find this helpful, please give this repository a star!** ⭐
 
 ---
-
-<div align="center">
-  <h3><b>📍Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Hunterdii/count.svg" />
-</p>
